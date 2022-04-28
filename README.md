@@ -1,3 +1,5 @@
+Software Engineering 5th Semester Project submission by :- Pranjal Saxena, Apoorv Singh.
+
 # CryptoPay
 CryptoPay is a flutter based mobile application implemented using blockchain technology. It is used to manage the transactions of cryptocurrency using metamask crypto wallet.
 
